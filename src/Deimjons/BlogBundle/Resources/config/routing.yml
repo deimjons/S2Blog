@@ -1,0 +1,6 @@
+main:
+  pattern: /
+  defaults: {_controller: DeimjonsBlogBundle:Main:All}
+addPost:
+  pattern: /add
+  defaults: {_controller: DeimjonsBlogBundle:Main:AddPost}
